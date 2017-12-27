@@ -1,3 +1,9 @@
+# windows软件
+
+***
+
+## windows小工具
+
 * Fastcopy:复制文件速度快。
 * Everything:搜索文件速度快。
 * Seer:预览文件，秒开，用space键盘开启，文件可以显示行号。
@@ -8,3 +14,21 @@
 * ChipGenius芯片精灵：USB设备检测工具。
 * Internet Download Manager:下载工具。
 * snipaste:载图工具。
+
+***
+
+## windows常用软件
+* UltraISO:刻录软件。
+ vmware:虚拟机。
+* WinRAR
+* QQ
+* DiskGenius
+* Internet Explorer
+* matlab
+* PowerPoint
+* windows10update
+* word
+* 百度网盘
+* 截图工具（windows自带）
+* 微信
+ 
