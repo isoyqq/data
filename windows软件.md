@@ -14,6 +14,7 @@
 * ChipGenius芯片精灵：USB设备检测工具。
 * Internet Download Manager:下载工具。
 * snipaste:载图工具。
+* CCleaner:清理工具
 
 ***
 
