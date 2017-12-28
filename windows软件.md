@@ -34,5 +34,5 @@
 * 百度网盘
 * 截图工具（windows自带）
 * 微信
-* AutoCAD
+* AutoCAD
 * proe
