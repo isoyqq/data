@@ -16,6 +16,7 @@
 * snipaste:载图工具。
 * CCleaner:清理工具。
 * clover: Windows Explorer资源管理器增加多标签页的功能，在同时查看和操作多个不同路径的文件夹时尤为方便，让窗口更少更整洁。
+* cpu-z
 
 ***
 
